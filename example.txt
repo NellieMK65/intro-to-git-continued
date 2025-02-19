@@ -1,1 +1,4 @@
 Learning about git continued
+
+
+We also learned about cli
